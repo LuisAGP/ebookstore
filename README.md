@@ -38,3 +38,29 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Images of example
 
+Welcome screen, this is the first view:
+
+![Hero Screen Ebook Store](https://raw.githubusercontent.com/LuisAGP/ebookstore/main/screenshots/Screenshot%20from%202024-06-07%2010-33-28.png "Hero Screen")
+
+
+Login view with [Auth0] to authentication:
+
+![Login Screen Ebook Store](https://raw.githubusercontent.com/LuisAGP/ebookstore/main/screenshots/Screenshot%20from%202024-06-07%2010-33-51.png "Login Screen")
+
+
+Home view to show the list of books:
+
+![Store Screen Ebook Store](https://raw.githubusercontent.com/LuisAGP/ebookstore/main/screenshots/Screenshot%20from%202024-06-07%2010-34-18.png "Store Screen")
+
+
+Ebook details view:
+
+![Ebook Screen Ebook Store](https://raw.githubusercontent.com/LuisAGP/ebookstore/main/screenshots/Screenshot%20from%202024-06-07%2010-34-43.png "Ebook Screen")
+
+
+Profile view. You can publish a book from here and can see the purchased books too
+
+![Profile Screen Ebook Store](https://raw.githubusercontent.com/LuisAGP/ebookstore/main/screenshots/Screenshot%20from%202024-06-07%2010-35-03.png "Profile Screen")
+
+
+[Auth0]: https://auth0.com/
