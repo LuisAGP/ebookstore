@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { UserProvider } from '@auth0/nextjs-auth0/client';
+import Navbar from "@/components/Navbar";
 import '@/styles/globals.css'
 
 export const metadata: Metadata = {
@@ -13,12 +13,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <UserProvider>
-        <body>
-          {children}
-        </body>
-      </UserProvider>
-    </html>
+    <main>
+        <Navbar filled={true}/>
+        {children}
+    </main>
   );
 }
